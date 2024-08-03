@@ -6,7 +6,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Player = game.Players.LocalPlayer
 
 function CorrectKeyAndLoadTheScript()
-         loadstring(game:HttpGet ("https://raw.githubusercontent.com/skibiditoiletriz/Spookys-Hitbox-Esp-unobfuscated/main/release"))() --This Where You Put The Script That Will Be Loaded If The Key Is Correct
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletriz/funny/main/release"))() --This Where You Put The Script That Will Be Loaded If The Key Is Correct
 end
 
 OrionLib:MakeNotification({
